@@ -96,7 +96,7 @@ Project images can be stored inside the `images` folder.
 Example:
 
 ```markdown
-![Line Following Robot](images/line-following-robot.jpg)
+![Line Following Robot](images/line-following-robot.jpeg)
 ```
 
 ## 💻 Code
